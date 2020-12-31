@@ -1,0 +1,23 @@
+c:\users\victorstanyrozario\documents\visual studio 2012\Projects\Super Shop Spring 2019-20\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.exe.config
+c:\users\victorstanyrozario\documents\visual studio 2012\Projects\Super Shop Spring 2019-20\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csprojResolveAssemblyReference.cache
+c:\users\victorstanyrozario\documents\visual studio 2012\Projects\Super Shop Spring 2019-20\Super Shop Spring 2019-20\obj\Debug\Super_Shop_Spring_2019_20.Properties.Resources.resources
+c:\users\victorstanyrozario\documents\visual studio 2012\Projects\Super Shop Spring 2019-20\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csproj.GenerateResource.Cache
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.exe.config
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.exe
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.pdb
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csprojResolveAssemblyReference.cache
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super_Shop_Spring_2019_20.Properties.Resources.resources
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super_Shop_Spring_2019_20.UI_Layer.ProductManagement.resources
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csproj.GenerateResource.Cache
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.exe
+C:\Users\VictorStanyRozario\Documents\Visual Studio 2012\Projects\Super Shop Spring 2019-20[C]\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.pdb
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.exe.config
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.exe
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\bin\Debug\Super Shop Spring 2019-20.pdb
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super_Shop_Spring_2019_20.Properties.Resources.resources
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super_Shop_Spring_2019_20.UI_Layer.ProductManagement.resources
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.exe
+C:\Users\User\Desktop\Super Shop Spring 2019-20 version_1.0\Super Shop Spring 2019-20\obj\Debug\Super Shop Spring 2019-20.pdb
